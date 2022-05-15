@@ -16,5 +16,11 @@
   - [Document](./docs/traditional_methods.md)
   - [Code](./traditional_methods/)
 - 神经网络方法
+  - [Document](./docs/nn_methods.md)
+  - Code
+
 - 预训练模型方法
+  - [Document](./docs/pretrain_models.md)
+  - [Code](./pretrain_models/)
+
 
